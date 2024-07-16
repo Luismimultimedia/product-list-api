@@ -7,8 +7,14 @@ const path = require('path');
 const app = express();
 const port = process.env.PORT || 3000;
 
+const corsOptions = {
+    origin: '*', // Permite solicitudes desde cualquier origen
+    methods: 'GET,HEAD,PUT,PATCH,POST,DELETE',
+    allowedHeaders: 'Content-Type,Authorization'
+};
+
 // Permitir solicitudes desde cualquier origen
-app.use(cors());
+app.use(cors(corsOptions));
 
 app.get('/api/product-list', (req, res) => {
     const dataPath = path.join(__dirname, './data/product-items.json');
