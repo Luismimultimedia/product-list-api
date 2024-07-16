@@ -7,11 +7,7 @@ const app = express();
 const port = process.env.PORT || 3000;
 
 // Configuración de CORS
-app.use(cors({
-    origin: '*', // Permite solo este origen
-    methods: 'GET,HEAD,PUT,PATCH,POST,DELETE',
-    allowedHeaders: 'Content-Type,Authorization',
-}));
+app.use(cors())
 
 // Ruta para obtener los datos de los productos
 app.get('/api/product-list', (req, res) => {
