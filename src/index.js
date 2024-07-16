@@ -8,7 +8,7 @@ const port = process.env.PORT || 3000;
 
 // Configuración de CORS
 app.use(cors({
-    origin: 'http://localhost:5173', // Permite solo este origen
+    origin: '*', // Permite solo este origen
     methods: 'GET,HEAD,PUT,PATCH,POST,DELETE',
     allowedHeaders: 'Content-Type,Authorization',
 }));
