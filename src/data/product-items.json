@@ -1,10 +1,10 @@
 [
     {
         "image": {
-            "thumbnail": "./assets/images/image-waffle-thumbnail.jpg",
-            "mobile": "./assets/images/image-waffle-mobile.jpg",
-            "tablet": "./assets/images/image-waffle-tablet.jpg",
-            "desktop": "./assets/images/image-waffle-desktop.jpg"
+            "thumbnail": "https://drive.google.com/uc?export=view&id=1ps7E8IVRwTWn7rqgZHfyiNyYXc-87oQv",
+            "mobile": "https://drive.google.com/uc?export=view&id=1CtmeQ2CiXPqQGR5D_1-iBWzVF7hT8I-m",
+            "tablet": "https://drive.google.com/uc?export=view&id=1VT2vkA5qOMrMOYkYoUVgy_wxZ1nAxqyl",
+            "desktop": "https://drive.google.com/uc?export=view&id=1lSkdTsjhIVpD4zO0hBVRwxgLxruWYS3d"
         },
         "name": "Waffle with Berries",
         "category": "Waffle",
@@ -12,10 +12,10 @@
     },
     {
         "image": {
-            "thumbnail": "./assets/images/image-creme-brulee-thumbnail.jpg",
-            "mobile": "./assets/images/image-creme-brulee-mobile.jpg",
-            "tablet": "./assets/images/image-creme-brulee-tablet.jpg",
-            "desktop": "./assets/images/image-creme-brulee-desktop.jpg"
+            "thumbnail": "https://drive.google.com/uc?export=view&id=1_RN_2pDNLmphCd5sc0dG959hg_jzzZJG",
+            "mobile": "https://drive.google.com/uc?export=view&id=1_LFlGKAkzhNn-vACPjjz5RvEgLU1seyc",
+            "tablet": "https://drive.google.com/uc?export=view&id=15ykxeqzeIT6X6QPuAVXT8qcxIdGIJRu7",
+            "desktop": "https://drive.google.com/uc?export=view&id=1zY-KRNNiWjMKB-JMk0pV3NsA1c_t8owL"
         },
         "name": "Vanilla Bean Crème Brûlée",
         "category": "Crème Brûlée",
@@ -23,10 +23,10 @@
     },
     {
         "image": {
-            "thumbnail": "./assets/images/image-macaron-thumbnail.jpg",
-            "mobile": "./assets/images/image-macaron-mobile.jpg",
-            "tablet": "./assets/images/image-macaron-tablet.jpg",
-            "desktop": "./assets/images/image-macaron-desktop.jpg"
+            "thumbnail": "https://drive.google.com/uc?export=view&id=1RL7d7JIOVLOpE5b0Wu0MP28q4cBdJ-St",
+            "mobile": "https://drive.google.com/uc?export=view&id=1fo5pyCFqn1baFbiU219inxUP2AQ74TpP",
+            "tablet": "https://drive.google.com/uc?export=view&id=1qDLucCvyEYi8yEGzuw-bbwcuQAo2Qw8h",
+            "desktop": "https://drive.google.com/uc?export=view&id=1mTnuWLlGN3GAaa9w-bQzyOaxb0JHI-j5"
         },
         "name": "Macaron Mix of Five",
         "category": "Macaron",
@@ -34,10 +34,10 @@
     },
     {
         "image": {
-            "thumbnail": "./assets/images/image-tiramisu-thumbnail.jpg",
-            "mobile": "./assets/images/image-tiramisu-mobile.jpg",
-            "tablet": "./assets/images/image-tiramisu-tablet.jpg",
-            "desktop": "./assets/images/image-tiramisu-desktop.jpg"
+            "thumbnail": "https://drive.google.com/uc?export=view&id=1cOZ0nvCXqSI64CwD3qgnE0EoRJZZdvmn",
+            "mobile": "https://drive.google.com/uc?export=view&id=1XhcqU0XkeyWdLvI_nbKG8ikRG2wM_uEJ",
+            "tablet": "https://drive.google.com/uc?export=view&id=1oe0AiA_w62xeN242GOS2eghMVY-fQLrO",
+            "desktop": "https://drive.google.com/uc?export=view&id=12oCRUY_lYPwy3VzOx46Pij-e07UwZji0"
         },
         "name": "Classic Tiramisu",
         "category": "Tiramisu",
@@ -45,10 +45,10 @@
     },
     {
         "image": {
-            "thumbnail": "./assets/images/image-baklava-thumbnail.jpg",
-            "mobile": "./assets/images/image-baklava-mobile.jpg",
-            "tablet": "./assets/images/image-baklava-tablet.jpg",
-            "desktop": "./assets/images/image-baklava-desktop.jpg"
+            "thumbnail": "https://drive.google.com/uc?export=view&id=1CWuywln8fdZ1Ha1ypiWEi1LplB_AJidN",
+            "mobile": "https://drive.google.com/uc?export=view&id=1wlTfIjxNnV4Qlc0cSC925DxZvmEA6GBe",
+            "tablet": "https://drive.google.com/uc?export=view&id=1HrYlFW9ZzGyC55hZEsj3aZ3B0wE0SmbZ",
+            "desktop": "https://drive.google.com/uc?export=view&id=1iZwxoU-6TOftY9vJtuRjlg8k7e6pCEXm"
         },
         "name": "Pistachio Baklava",
         "category": "Baklava",
@@ -56,10 +56,10 @@
     },
     {
         "image": {
-            "thumbnail": "./assets/images/image-meringue-thumbnail.jpg",
-            "mobile": "./assets/images/image-meringue-mobile.jpg",
-            "tablet": "./assets/images/image-meringue-tablet.jpg",
-            "desktop": "./assets/images/image-meringue-desktop.jpg"
+            "thumbnail": "https://drive.google.com/uc?export=view&id=1qDLucCvyEYi8yEGzuw-bbwcuQAo2Qw8h",
+            "mobile": "https://drive.google.com/uc?export=view&id=1fo5pyCFqn1baFbiU219inxUP2AQ74TpP",
+            "tablet": "https://drive.google.com/uc?export=view&id=1RL7d7JIOVLOpE5b0Wu0MP28q4cBdJ-St",
+            "desktop": "https://drive.google.com/uc?export=view&id=1YXuMEV8EvikppKtmuWffMTjSQEOuScZm"
         },
         "name": "Lemon Meringue Pie",
         "category": "Pie",
@@ -67,10 +67,10 @@
     },
     {
         "image": {
-            "thumbnail": "./assets/images/image-cake-thumbnail.jpg",
-            "mobile": "./assets/images/image-cake-mobile.jpg",
-            "tablet": "./assets/images/image-cake-tablet.jpg",
-            "desktop": "./assets/images/image-cake-desktop.jpg"
+            "thumbnail": "https://drive.google.com/uc?export=view&id=1L9kLnOoaOun4tohvKNgC5vzVohUMdNHT",
+            "mobile": "https://drive.google.com/uc?export=view&id=12RdbukEwl74RTVWkakvhySGZPew9qdUg",
+            "tablet": "https://drive.google.com/uc?export=view&id=11eQ3HQ3kdGC_MNkj5uFXcJ4gvoB9Qd3t",
+            "desktop": "https://drive.google.com/uc?export=view&id=18kqLuehwxk9fcqG0ZthAHL-gFapS05dt"
         },
         "name": "Red Velvet Cake",
         "category": "Cake",
@@ -78,10 +78,10 @@
     },
     {
         "image": {
-            "thumbnail": "./assets/images/image-brownie-thumbnail.jpg",
-            "mobile": "./assets/images/image-brownie-mobile.jpg",
-            "tablet": "./assets/images/image-brownie-tablet.jpg",
-            "desktop": "./assets/images/image-brownie-desktop.jpg"
+            "thumbnail": "https://drive.google.com/uc?export=view&id=10gLOOUonKmoE3HY22uIM31jRlRELWt3z",
+            "mobile": "https://drive.google.com/uc?export=view&id=147W6c4bSR51QglEPkbFJb_wjjr0uqDmD",
+            "tablet": "https://drive.google.com/uc?export=view&id=1kJIjTd6XLS5bEoW5TVvVTd2jVfKVvisD",
+            "desktop": "https://drive.google.com/uc?export=view&id=1tp9uNTtne8X5GnpZvp3cN6IM7ccK8dZE"
         },
         "name": "Salted Caramel Brownie",
         "category": "Brownie",
@@ -89,10 +89,10 @@
     },
     {
         "image": {
-            "thumbnail": "./assets/images/image-panna-cotta-thumbnail.jpg",
-            "mobile": "./assets/images/image-panna-cotta-mobile.jpg",
-            "tablet": "./assets/images/image-panna-cotta-tablet.jpg",
-            "desktop": "./assets/images/image-panna-cotta-desktop.jpg"
+            "thumbnail": "https://drive.google.com/uc?export=view&id=1fZqIPGp5zbEXyag1HcZOxIVXnBbJziFi",
+            "mobile": "https://drive.google.com/uc?export=view&id=12WlJCcDF3vgrwhg61VkBthNy0CE7LvGW",
+            "tablet": "https://drive.google.com/uc?export=view&id=1TtMrW2CXXoIGB6ZaVxHMmNFcDAEd9W0a",
+            "desktop": "https://drive.google.com/uc?export=view&id=19UV3AH6FUGR7fqrGX6COLxABD9He3BCi"
         },
         "name": "Vanilla Panna Cotta",
         "category": "Panna Cotta",
