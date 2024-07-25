@@ -1,5 +1,6 @@
 [
     {
+        "id": "product-id-1",
         "image": {
             "thumbnail": "https://lh3.google.com/u/0/d/1ps7E8IVRwTWn7rqgZHfyiNyYXc-87oQv",
             "mobile": "https://lh3.google.com/u/0/d/1CtmeQ2CiXPqQGR5D_1-iBWzVF7hT8I-m",
@@ -11,6 +12,7 @@
         "price": 6.50
     },
     {
+        "id": "product-id-2",
         "image": {
             "thumbnail": "https://lh3.google.com/u/0/d/1_RN_2pDNLmphCd5sc0dG959hg_jzzZJG",
             "mobile": "https://lh3.google.com/u/0/d/1_LFlGKAkzhNn-vACPjjz5RvEgLU1seyc",
@@ -22,6 +24,7 @@
         "price": 7.00
     },
     {
+        "id": "product-id-3",
         "image": {
             "thumbnail": "https://lh3.google.com/u/0/d/1RL7d7JIOVLOpE5b0Wu0MP28q4cBdJ-St",
             "mobile": "https://lh3.google.com/u/0/d/1fo5pyCFqn1baFbiU219inxUP2AQ74TpP",
@@ -33,6 +36,7 @@
         "price": 8.00
     },
     {
+        "id": "product-id-4",
         "image": {
             "thumbnail": "https://lh3.google.com/u/0/d/1cOZ0nvCXqSI64CwD3qgnE0EoRJZZdvmn",
             "mobile": "https://lh3.google.com/u/0/d/1XhcqU0XkeyWdLvI_nbKG8ikRG2wM_uEJ",
@@ -44,6 +48,7 @@
         "price": 5.50
     },
     {
+        "id": "product-id-5",
         "image": {
             "thumbnail": "https://lh3.google.com/u/0/d/1CWuywln8fdZ1Ha1ypiWEi1LplB_AJidN",
             "mobile": "https://lh3.google.com/u/0/d/1wlTfIjxNnV4Qlc0cSC925DxZvmEA6GBe",
@@ -55,6 +60,7 @@
         "price": 4.00
     },
     {
+        "id": "product-id-6",
         "image": {
             "thumbnail": "https://lh3.google.com/u/0/d/1qDLucCvyEYi8yEGzuw-bbwcuQAo2Qw8h",
             "mobile": "https://lh3.google.com/u/0/d/1fo5pyCFqn1baFbiU219inxUP2AQ74TpP",
@@ -66,6 +72,7 @@
         "price": 5.00
     },
     {
+        "id": "product-id-7",
         "image": {
             "thumbnail": "https://lh3.google.com/u/0/d/1L9kLnOoaOun4tohvKNgC5vzVohUMdNHT",
             "mobile": "https://lh3.google.com/u/0/d/12RdbukEwl74RTVWkakvhySGZPew9qdUg",
@@ -77,6 +84,7 @@
         "price": 4.50
     },
     {
+        "id": "product-id-8",
         "image": {
             "thumbnail": "https://lh3.google.com/u/0/d/10gLOOUonKmoE3HY22uIM31jRlRELWt3z",
             "mobile": "https://lh3.google.com/u/0/d/147W6c4bSR51QglEPkbFJb_wjjr0uqDmD",
@@ -88,6 +96,7 @@
         "price": 4.50
     },
     {
+        "id": "product-id-9",
         "image": {
             "thumbnail": "https://lh3.google.com/u/0/d/1fZqIPGp5zbEXyag1HcZOxIVXnBbJziFi",
             "mobile": "https://lh3.google.com/u/0/d/12WlJCcDF3vgrwhg61VkBthNy0CE7LvGW",
